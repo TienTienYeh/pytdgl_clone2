@@ -69,10 +69,10 @@ from setuptools import find_packages, setup
 DESCRIPTION = "pyTDGL: Time-dependent Ginzburg-Landau in Python."
 LONG_DESCRIPTION = __doc__
 
-NAME = "tdgl"
+NAME = "tdgl_clone2"
 AUTHOR = "Logan Bishop-Van Horn"
 AUTHOR_EMAIL = "logan.bvh@gmail.com"
-URL = "https://github.com/loganbvh/py-tdgl"
+URL = "https://github.com/TienTienYeh/pytdgl_clone2"
 LICENSE = "MIT"
 PYTHON_VERSION = ">=3.8, <3.12"
 
