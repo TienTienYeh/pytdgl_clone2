@@ -1,4 +1,4 @@
-# pyTDGL
+# pyTDGL (AC test)
 
 ![pyTDGL Logo](docs/images/logo-transparent-small.png)
 
